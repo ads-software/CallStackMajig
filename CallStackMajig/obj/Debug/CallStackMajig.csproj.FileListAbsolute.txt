@@ -1,0 +1,7 @@
+C:\Repos\CallStackMajig\CallStackMajig\bin\Debug\CallStackMajig.dll
+C:\Repos\CallStackMajig\CallStackMajig\bin\Debug\CallStackMajig.pdb
+C:\Repos\CallStackMajig\CallStackMajig\obj\Debug\CallStackMajig.csprojAssemblyReference.cache
+C:\Repos\CallStackMajig\CallStackMajig\obj\Debug\CallStackMajig.csproj.CoreCompileInputs.cache
+C:\Repos\CallStackMajig\CallStackMajig\obj\Debug\CallStackMajig.dll
+C:\Repos\CallStackMajig\CallStackMajig\obj\Debug\CallStackMajig.pdb
+C:\Repos\CallStackMajig\CallStackMajig\bin\Debug\CallStackMajig.tlb
