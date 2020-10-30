@@ -5,3 +5,10 @@ C:\Repos\CallStackMajig\CallStackMajig\obj\Debug\CallStackMajig.csproj.CoreCompi
 C:\Repos\CallStackMajig\CallStackMajig\obj\Debug\CallStackMajig.dll
 C:\Repos\CallStackMajig\CallStackMajig\obj\Debug\CallStackMajig.pdb
 C:\Repos\CallStackMajig\CallStackMajig\bin\Debug\CallStackMajig.tlb
+C:\Users\New Owner\Source\Repos\CallStackMajig2\CallStackMajig\bin\Debug\CallStackMajig.dll
+C:\Users\New Owner\Source\Repos\CallStackMajig2\CallStackMajig\bin\Debug\CallStackMajig.pdb
+C:\Users\New Owner\Source\Repos\CallStackMajig2\CallStackMajig\bin\Debug\CallStackMajig.tlb
+C:\Users\New Owner\Source\Repos\CallStackMajig2\CallStackMajig\obj\Debug\CallStackMajig.csprojAssemblyReference.cache
+C:\Users\New Owner\Source\Repos\CallStackMajig2\CallStackMajig\obj\Debug\CallStackMajig.csproj.CoreCompileInputs.cache
+C:\Users\New Owner\Source\Repos\CallStackMajig2\CallStackMajig\obj\Debug\CallStackMajig.dll
+C:\Users\New Owner\Source\Repos\CallStackMajig2\CallStackMajig\obj\Debug\CallStackMajig.pdb
